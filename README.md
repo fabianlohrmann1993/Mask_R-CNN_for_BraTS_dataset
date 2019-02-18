@@ -6,3 +6,5 @@ Original Repository:
 https://github.com/matterport/Mask_RCNN
 
 
+I'm trying to implement the Mask R-CNN model designed by Matterport for instance segmentation on the braTS dataset to detect different sub-regions of tumors.
+
